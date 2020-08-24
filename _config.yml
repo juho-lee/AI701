@@ -1,19 +1,18 @@
 # Site settings
-course_name: AI701
-course_description: "Bayesian machine learning"
+course_name: AI701 Bayesian machine learning
 course_semester: "Fall 2020"
 
 baseurl: "/AI701" # the subpath of your site, e.g. /blog/
 url: "http://juholee.github.io/" # the base hostname & protocol for your site
 
-schoolname: "KAIST"
-schoolurl: "https://kaist.ac.kr"
+schoolname: "The graduate school of AI, KAIST"
+schoolurl: "https://gsai.kaist.ac.kr"
 twitter_username: 
 
-address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+# address: |
+#    School of Witchcraft and Wizardry
+#    Hogwarts
+#    Scotland
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X

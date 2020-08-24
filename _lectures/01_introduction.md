@@ -1,17 +1,12 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
+date: 2020-09-01T8:00:00+4:30
+title: Introduction to Bayesian learning
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/presentations/lecture1.pdf
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- Murphy Chapter 5 & 6
+- [Bayesianism vs Frequentism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) by [Jake VanderPlas](http://vanderplas.com/)
+- [Introduction to Bayesian inference](http://www.stat.cmu.edu/~larry/=sml/Bayes.pdf) by [Larry Wasserman](http://www.stat.cmu.edu/~larry/)
