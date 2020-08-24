@@ -4,8 +4,8 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/murphy.png" width=190 align="right" %}
-{% include image.html url="/_images/bishop.png" width=175 align="right" %}
+{% include image.html url="/_images/murphy.PNG" width=190 align="right" %}
+{% include image.html url="/_images/bishop.PNG" width=175 align="right" %}
 
 ## Syllabus
 You can find the syllabus [here](https://docs.google.com/document/d/13gWYw6fNVdxbIUfjH57xy6DU0FPH6rYtYoTdV8kUG4E/edit?usp=sharing).
