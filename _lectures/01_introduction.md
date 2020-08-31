@@ -3,7 +3,7 @@ type: lecture
 date: 2020-09-01T8:00:00+4:30
 title: Introduction to Bayesian learning
 links: 
-    - url: /static_files/presentations/lecture1.pdf
+    - url: https://www.overleaf.com/read/bsgvhhcxnzbr
       name: slides
 ---
 **Suggested Readings:**
