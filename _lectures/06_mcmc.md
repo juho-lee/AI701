@@ -7,5 +7,8 @@ links:
       name: slides
 ---
 **Suggested Readings:**
+- [Probabilistic inference using Markov chain Monte Carlo](
+https://bayes.wustl.edu/Manual/RadfordNeal.review.pdf) by [Radford Neal](
+https://www.cs.toronto.edu/~radford/homepage.html)
 - Bishop Chapter 11
 - Murphy Chapter 24
