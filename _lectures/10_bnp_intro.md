@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-10-20T8:00:00+4:3
+date: 2020-10-20T8:00:00+4:30
 title: Introduction to Bayesian nonparametric models
 links:
     - url: https://www.overleaf.com/read/nyhjkkwqvbky
