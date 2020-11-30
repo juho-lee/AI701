@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-11-24T11:00:00+4:30
+date: 2020-11-26T11:00:00+4:30
 title: Deep neural networks as Gaussian processes
 links:
     - url: https://www.overleaf.com/read/wxcvtcsjghrf
